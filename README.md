@@ -34,15 +34,15 @@ or you can use APIs [Leonardo.Ai API Guide](https://docs.leonardo.ai/docs)
   
 <tr>
 <td>
-<img src="https://github.com/saba99/Talking_Face_Avatar/assets/33378412/12ffc93b-79f5-4cf0-a14d-f58cc050cc16" width="300px";height:"400px">
+<img src="https://github.com/T0pTalent/Talking_Face_Avatar/assets/33378412/12ffc93b-79f5-4cf0-a14d-f58cc050cc16" width="300px";height:"400px">
 
 </td>
 <td>
- <img src="https://github.com/saba99/Talking_Face_Avatar/assets/33378412/ef923464-1033-45ba-a067-2a21afbae8fa" width="300px";height:"400px">
+ <img src="https://github.com/T0pTalent/Talking_Face_Avatar/assets/33378412/ef923464-1033-45ba-a067-2a21afbae8fa" width="300px";height:"400px">
 
 </td>
 <td>
- <img src="https://github.com/saba99/Talking_Face_Avatar/assets/33378412/cfb315c5-35f8-4a76-945d-eca0393825b0" width="300px";height:"400px">
+ <img src="https://github.com/T0pTalent/Talking_Face_Avatar/assets/33378412/cfb315c5-35f8-4a76-945d-eca0393825b0" width="300px";height:"400px">
 
 
 </td>
